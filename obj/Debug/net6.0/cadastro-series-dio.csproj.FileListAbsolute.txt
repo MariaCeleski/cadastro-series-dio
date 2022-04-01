@@ -1,0 +1,15 @@
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\bin\Debug\net6.0\cadastro-series-dio.exe
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\bin\Debug\net6.0\cadastro-series-dio.deps.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\bin\Debug\net6.0\cadastro-series-dio.runtimeconfig.json
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\bin\Debug\net6.0\cadastro-series-dio.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\bin\Debug\net6.0\cadastro-series-dio.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.csproj.AssemblyReference.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.AssemblyInfoInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.AssemblyInfo.cs
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\refint\cadastro-series-dio.dll
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.pdb
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\cadastro-series-dio.genruntimeconfig.cache
+C:\Users\Tuca\Nova pasta\workspace\Desafios Dio\cadastro-series-dio\obj\Debug\net6.0\ref\cadastro-series-dio.dll
