@@ -1,4 +1,6 @@
-﻿namespace DIO.Series
+﻿using System;
+
+namespace DIO.Series
 {
     class Program
     {
